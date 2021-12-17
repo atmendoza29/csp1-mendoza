@@ -1,0 +1,21 @@
+* {
+	font-family: 'Playfair Display', serif;
+}
+
+#landing img {
+	width: 300px;
+	height: 300px;
+}
+
+#tools img {
+	width: 100px;
+}
+
+#contact img {
+	width: 50px;
+}
+
+#gmap {
+	height: 50vh;
+	width: 100%;
+}
